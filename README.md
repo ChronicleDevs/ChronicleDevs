@@ -2,11 +2,12 @@
   <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.instagram.com/chetdexylf?igsh=MTMzNWp6eGhrNDV5Yw==">Cethydexyl</a></b>.
-    <br>I'm an Intermediate Programmer, also I am a Junior High School Student from <a href="mtsngresik.sch.id">MTsN Gresik</a><br>
+    <br>I'm an Intermediate Programmer, also I am a Junior High School Student from <a href="https://mtsngresik.sch.id">MTsN Gresik</a><br>
 
 </samp>
 
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+  <img src="https://www.icegif.com/wp-content/uploads/2023/07/icegif-93.gif
+" width="200"/>
 
 </p>
 
