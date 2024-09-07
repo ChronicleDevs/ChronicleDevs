@@ -43,5 +43,5 @@
 </details>
 
 ----
-Btw this README was created by 
-Credits: [TanZng](https://github.com/TanZng)
+Credit:
+Btw this README was created by [TanZng](https://github.com/TanZng)
