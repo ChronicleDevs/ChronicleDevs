@@ -20,7 +20,7 @@
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
-<p align="center" style="font-weight: bold">I want to be Everything<br><br>That was the thing I could imagine when i was child. I want to be everything. I want to be Pianist, Artist, and Programmer.<br><br>I could program with few programming languages, Like Python3, JS, and Java. Python is my favorite</p>
+<p align="center" style="font-weight: bold">Setideksil Here<br><br>My name is Setideksil (wydenial). I am from Indonesia<br><br>I can program with few programming languages. Like Python3, JS, and Java. Python is my favorite</p>
 <p align="center">
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/tania-r-zuniga/">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/linkedin.png" width="30px" alt="LinkedIn"></a>
